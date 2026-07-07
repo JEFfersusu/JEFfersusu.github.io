@@ -61,9 +61,8 @@ education:
     logo: /assets/images/badges/hnu.jpg
     position: >-
       <span class="lang-en">Recommended Admission to Academic Master's Degree</span><span class="lang-zh">推免攻读学术型硕士研究生</span>
-    advisor: >-
-      <span class="lang-en">Advisor: <a href="https://scholar.google.com/citations?hl=zh-CN&user=Gfa4nasAAAAJ" target="_blank">Prof. Leyuan Fang</a></span><span class="lang-zh">导师：<a href="https://scholar.google.com/citations?hl=zh-CN&user=Gfa4nasAAAAJ" target="_blank">方乐缘教授</a></span>
-    date: 2026 -
+advisor: >-
+  <span class="lang-en">Advisor: <a href="https://scholar.google.com/citations?hl=zh-CN&user=Gfa4nasAAAAJ" target="_blank">Prof. Leyuan Fang</a></span><span class="lang-zh">导师：<a href="https://scholar.google.com/citations?hl=zh-CN&user=Gfa4nasAAAAJ" target="_blank">方乐缘教授</a></span>    date: 2026 -
 
 experience:
   - name: >-
