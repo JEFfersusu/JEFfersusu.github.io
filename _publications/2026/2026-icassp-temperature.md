@@ -7,8 +7,8 @@ pub: "[IEEE International Conference on Acoustics, Speech, and Signal Processing
 pub_date: "2026"
 pub_last: '<span class="badge badge-pill badge-publication badge-success">CCF-B · CORE B</span>'
 authors:
-  - Weichao Pan†
-  - Ruida Liu†
+  - Weichao Pan#
+  - Ruida Liu#
   - Chengze Lv
   - Puyu Han
   - Luqi Gong
