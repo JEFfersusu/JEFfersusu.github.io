@@ -5,7 +5,7 @@ selected: true
 cover: /assets/images/covers/papers/2026-medctm.jpg
 pub: "Information Processing & Management"
 pub_date: "2026"
-pub_last: '<span class="badge badge-pill badge-publication badge-success">JCR Q1 · CCF-B</span>'
+pub_last: '<span class="badge badge-pill badge-publication badge-success">JCR Q1 ·  CAS TOP ·  CCF-B</span>'
 authors:
   - Weichao Pan
   - Jiaju Kang
