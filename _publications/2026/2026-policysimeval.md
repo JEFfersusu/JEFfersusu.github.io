@@ -7,9 +7,9 @@ pub: "[International Conference on Intelligent Computing (ICIC)](http://www.ic-i
 pub_date: "2026"
 pub_last: '<span class="badge badge-pill badge-publication badge-info">CCF-C</span>'
 authors:
-  - Jiaju Kang†
-  - Puyu Han†
-  - Xu Wang†
+  - Jiaju Kang#
+  - Puyu Han#
+  - Xu Wang#
   - Weichao Pan
   - Ruida Liu
   - Chenggang Zhang
