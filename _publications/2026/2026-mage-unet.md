@@ -7,8 +7,8 @@ pub: "[Signal, Image and Video Processing](https://link.springer.com/journal/117
 pub_date: "2026"
 pub_last: '<span class="badge badge-pill badge-publication badge-info">JCR Q3 · CAAI-C</span>'
 authors:
-  - Yuhang Wang†
-  - Shuoyang Wang†
+  - Yuhang Wang#
+  - Shuoyang Wang#
   - Chengze Lv
   - Gongrui Wang
   - Zicheng Lin
