@@ -48,12 +48,19 @@ portrait_caption: "Weichao Pan / 潘维超"
 education:
   - name: >-
       <span class="lang-en">Shandong Jianzhu University</span><span class="lang-zh">山东建筑大学</span>
-    logo: /assets/images/badges/sdjzu.svg
+    logo: /assets/images/badges/sdjzu.png
     dept: >-
       <span class="lang-en">School of Computer Science and Artificial Intelligence</span><span class="lang-zh">计算机与人工智能学院</span>
     position: >-
       <span class="lang-en">B.Eng. in Artificial Intelligence · GPA 3.99/5 · Rank 1/36</span><span class="lang-zh">人工智能专业工学学士 · GPA 3.99/5 · 专业排名 1/36</span>
     date: 2022 - 2026
+    
+  - name: >-
+      <span class="lang-en">Hunan University</span><span class="lang-zh">湖南大学</span>
+    logo: /assets/images/badges/hnu.jpg
+    position: >-
+      <span class="lang-en">Recommended Admission to Academic Master's Program</span><span class="lang-zh">推免攻读学术型硕士研究生</span>
+    date: 2026 -
 
 experience:
   - name: >-
